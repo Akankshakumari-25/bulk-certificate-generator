@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test cache
+.pytest_cache/
+
+# SQLite database
+*.db
+
+# Generated certificates
+generated/*.pdf
+
+# macOS
+.DS_Store
